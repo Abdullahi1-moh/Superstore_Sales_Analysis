@@ -31,5 +31,18 @@ The goal is to identify key business insights including revenue trends, customer
 - `SUPERSTORE5.xlsx` (or `sales_clean.csv`) → dataset (if shareable)
 - `figures/` → saved plots (optional)
 
+## 🔹 Power BI Dashboard
+
+Alongside the R analysis, I also built an **interactive Power BI dashboard** to visualize sales insights.
+
+### Dashboard Highlights
+- KPI cards for **Total Revenue (2.3M)** and **Quantity Sold (38K)**
+- Year-over-year **Sales & Profit trends**
+- **Customer Segment analysis** (Consumer, Corporate, Home Office)
+- **Sales by U.S. State** (map visualization)
+- **Category & Subcategory breakdown** with quarterly trends
+
+📄 Full Power BI report: [Superstore_sales_Dashboard.pdf](Superstore_sales_Dashboard.pdf)
+
 ---
 🚀 This project demonstrates how to perform **data cleaning, exploratory data analysis (EDA), and visualization** in R for a real-world sales dataset.
