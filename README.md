@@ -46,3 +46,18 @@ Alongside the R analysis, I also built an **interactive Power BI dashboard** to 
 
 ---
 🚀 This project demonstrates how to perform **data cleaning, exploratory data analysis (EDA), and visualization** in R for a real-world sales dataset.
+
+## 🔹 SQL Analysis (Classic Models Database)
+
+This project also includes SQL queries using the **Classic Models** sample database.  
+Queries cover customer insights, sales performance, and revenue trends.
+
+📂 SQL scripts available in [`sql_queries/`](sql_queries/)
+
+### Example Queries
+- Orders by country  
+- High-spending customers (>$10,000)  
+- Monthly revenue by order date  
+- Top 10 products by sales  
+- Revenue by sales rep  
+
